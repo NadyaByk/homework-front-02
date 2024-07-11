@@ -1,0 +1,49 @@
+.message {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.imageAndText {
+
+}
+
+.imageAndText img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+.text {
+width: 527px;
+    height: 60px;
+    border-radius: 5px 5px 0 5px;
+    background-color: #007bff;
+
+}
+
+.text:after {
+    height: auto;
+}
+
+.name {
+font-size: 20px;
+    font-weight: bold;
+    color: #d7f2fa;
+
+
+}
+
+.messageText {
+
+    color: #fff;
+    align-self: flex-end;
+}
+
+.time {
+    font-size: 0.8em;
+}
